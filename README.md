@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun Kumar Rana</h1>
 <h3 align="center">Experienced Data Scientist with a strong background in machine learning, NLP and data analysis. Focused on real-world applications of NLP to enhance business operations and customer satisfaction. Skilled in Python, statistical modeling, and leveraging AI technologies to drive innovation and improve performance.</h3>
 
-- 🔭 I’m currently working on **Gen AI Projects**
+- 🔭 I’m currently working on **LLM AI Projects**
 
 - 🌱 I’m currently learning **Gen AI,LLM**
 
